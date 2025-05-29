@@ -1,7 +1,1 @@
-| Library          | Purpose                                            |
-| ---------------- | -------------------------------------------------- |
-| `tkinter`        | GUI for file selection, input boxes, buttons, etc. |
-| `Pillow` (`PIL`) | Image processing (load/save/modify images)         |
-| `cryptography`   | AES encryption and key management                  |
-| `base64`         | Encode/decode binary to text (used in encryption)  |
-| `os` / `sys`     | File paths and system interactions (built-in)      |
+<pre> ```python def greet(): print("Hello, world!") ``` </pre>
