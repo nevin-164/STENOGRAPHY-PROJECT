@@ -6,7 +6,7 @@ def encode_text_in_image(image_path, message, output_path):
     width, height = img.size
     index = 0
 
-    message += "$$$"  # Add end marker
+    message += "$$$"
     binary_message = ''.join(format(ord(i), '08b') for i in message)
 
     for row in range(height):
@@ -21,5 +21,5 @@ def encode_text_in_image(image_path, message, output_path):
     print("✅ Message encoded and saved as:", output_path)
 
 
-# Test
+
 encode_text_in_image("C:/Users/nevin/OneDrive/Desktop/Personal Project/STENOGRAPHY-PROJECT/input.png", "This is a sensitive information.CONFIDENTIAL!!!!", "encoded.png")

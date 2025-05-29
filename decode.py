@@ -18,8 +18,8 @@ def decode_text_from_image(image_path):
         if message[-3:] == "$$$":
             break
 
-    return message[:-3]  # remove end marker
+    return message[:-3]  
 
 
-# Test
+
 print("Decoded message:", decode_text_from_image("encoded.png"))
