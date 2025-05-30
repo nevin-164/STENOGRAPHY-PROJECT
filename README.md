@@ -46,3 +46,17 @@ Decode<br>
 2.Provide the correct key file.
 
 3.The message is extracted and decrypted if the key is valid.
+
+
+---
+
+## 👨‍💻 About the Author
+
+This project was created by **Nevin Binu**, a Computer Science and Engineering student passionate about exploring cybersecurity, cryptography, and real-world applications of programming. This project was built as part of a self-study initiative to understand how digital information can be hidden and secured using steganography and encryption.
+
+---
+
+## ⚠️ Disclaimer
+
+This project is strictly for **educational and academic purposes** only. It is not designed for production use or to secure sensitive, real-world information. The methods and tools implemented may not meet real-world security standards and should not be relied upon for protecting confidential data.
+
