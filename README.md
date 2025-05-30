@@ -35,7 +35,7 @@ A key is generated (secret.key) and the message is encrypted.
 
 The encrypted message is hidden inside the image using LSB technique.
 
-The output image (e.g., encoded_image.png) is saved.
+The output image (e.g., encoded_image.png) is saved.<br>
 
 Decode
 Open the encoded image.
