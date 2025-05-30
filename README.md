@@ -52,7 +52,7 @@ Decode<br>
 
 ## 👨‍💻 About the Author
 
-This project was created by **Nevin Binu**, a Computer Science and Engineering student passionate about exploring cybersecurity, cryptography, and real-world applications of programming. This project was built as part of a self-study initiative to understand how digital information can be hidden and secured using steganography and encryption.
+This project is created by **Nevin Binu**, a Computer Science and Engineering student passionate about exploring cybersecurity, cryptography, and real-world applications of programming. This project was built as part of a self-study initiative to understand how digital information can be hidden and secured using steganography and encryption.
 
 ---
 
