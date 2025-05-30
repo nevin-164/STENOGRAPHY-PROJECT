@@ -19,3 +19,9 @@ The main goal of this project was to explore **how secret messages can be hidden
 ✅ Working with binary data and encoding
 ✅ GUI creation with Tkinter
 ✅ File handling, key generation, and exception handling in Python
+Install dependencies:
+
+bash
+Copy
+Edit
+
