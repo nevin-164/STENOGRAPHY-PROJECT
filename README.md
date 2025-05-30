@@ -25,3 +25,21 @@ Install dependencies:
 pip install Pillow cryptography
 ```
 
+🔐 How It Works
+Encode
+Select an image.
+
+Type your secret message.
+
+A key is generated (secret.key) and the message is encrypted.
+
+The encrypted message is hidden inside the image using LSB technique.
+
+The output image (e.g., encoded_image.png) is saved.
+
+Decode
+Open the encoded image.
+
+Provide the correct key file.
+
+The message is extracted and decrypted if the key is valid.
