@@ -1,0 +1,5 @@
+🛠️ Technologies & Libraries Used
+Python 3.9+
+Pillow (PIL)
+cryptography
+Tkinter (standard library)
